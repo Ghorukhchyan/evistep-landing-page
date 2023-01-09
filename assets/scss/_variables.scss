@@ -1,0 +1,86 @@
+@import "~bootstrap/scss/variables";
+
+$font-family-sans-serif: "Montserrat", system-ui, -apple-system, "Segoe UI", roboto,
+  "Helvetica Neue", arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
+  "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+$enable-negative-margins: true;
+
+$navbar-padding-y: 0;
+$navbar-brand-padding-y: 0;
+$nav-link-padding-y: 0;
+
+$form-feedback-text-color: $body-color;
+
+
+$font-weight-light: 400;
+$font-weight-normal: 500;
+$font-weight-bold: 600;
+$font-weight-bolder: 700;
+
+
+$btn-border-width: 0;
+$btn-focus-width: 0;
+$btn-focus-box-shadow: 0;
+$btn-padding-y: 18px;
+$btn-padding-y-sm: 12px;
+$btn-border-radius: 100px;
+$btn-border-radius-sm: 100px;
+
+$btn-border-width: 0;
+$btn-padding-y: 18px;
+$btn-padding-y-sm: 12px;
+$btn-border-radius: 100px;
+$btn-border-radius-sm: 100px;
+$btn-disabled-opacity: 1;
+
+$btn-line-height: 20px;
+
+$btn-line-height: 20px;
+
+$btn-font-weight: $font-weight-normal;
+$btn-font-size-sm: $font-size-base;
+
+
+
+$body-color: #444362;
+$primary: #2704FF;
+$secondary: #f7f7fb;
+$white: #FBFAFA;
+$gray: #8584A2;
+$orange:#FFC759;
+
+
+
+$theme-colors: (
+  'primary': $primary,
+  'secondary': $secondary,
+  'gray': $gray,
+  'orange':$orange,
+  'body-color':$body-color,
+  'white': $white,
+  'dark': $dark,
+);
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1440px,
+  xxxl: 1920px
+);
+
+$container-padding-x: 18px;
+
+$container-max-widths: (
+  sm: 540px,
+  md: 732px,
+  lg: 956px,
+  xl: 1164px,
+  xxl: 1200px,
+  xxxl: 1338px,
+);
+
+

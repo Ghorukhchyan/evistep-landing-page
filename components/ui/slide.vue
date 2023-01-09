@@ -45,6 +45,8 @@ export default {
 };
 </script>
 
+// ==
+
 <style lang="scss" scoped>
 .slider {
   width: 25% !important;
